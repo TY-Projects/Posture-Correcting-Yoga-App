@@ -1,1 +1,1 @@
-# Posture-Correcting-Yoga-App
+# Virtual-Yoga-App
